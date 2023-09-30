@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32106.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{778DAE3C-4631-46EA-AA77-85C1314464D9}") = "Rippee_311_A1", "Rippee_311_A1\Rippee_311_A1.vbproj", "{F4955748-CB22-4414-94B4-3E7D0085EFEB}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{335E4893-5372-4778-A77A-5B5274D2F5DE}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F4955748-CB22-4414-94B4-3E7D0085EFEB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F4955748-CB22-4414-94B4-3E7D0085EFEB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F4955748-CB22-4414-94B4-3E7D0085EFEB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F4955748-CB22-4414-94B4-3E7D0085EFEB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A83C123-FF35-421B-9312-5849B34D8C08}
+	EndGlobalSection
+EndGlobal
